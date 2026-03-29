@@ -1,0 +1,63 @@
+# Default chance if mob not listed.
+default-chance: 0.005
+
+# Only drop if killed by player.
+player-kill-only: true
+
+# Per-mob drop chances.
+mob-chances:
+  ZOMBIE: 0.01
+  SKELETON: 0.005
+  SPIDER: 0.005
+  CREEPER: 0.002
+  DROWNED: 0.004
+  HUSK: 0.004
+  STRAY: 0.004
+
+  SLIME: 0.003
+  WITCH: 0.002
+  GUARDIAN: 0.002
+  PHANTOM: 0.002
+
+  ENDERMAN: 0.001
+  BLAZE: 0.002
+  WITHER_SKELETON: 0.001
+  PIGLIN: 0.0015
+  PIGLIN_BRUTE: 0.0005
+  HOGLIN: 0.0015
+  ZOGLIN: 0.001
+
+  VILLAGER: 0.0005
+  IRON_GOLEM: 0.0005
+  ALLAY: 0.0001
+
+  COW: 0.0002
+  PIG: 0.0002
+  CHICKEN: 0.0002
+  SHEEP: 0.0002
+  RABBIT: 0.0002
+
+  HORSE: 0.0005
+  DONKEY: 0.0005
+  MULE: 0.0005
+  CAMEL: 0.0003
+
+  COD: 0.001
+  SALMON: 0.001
+  PUFFERFISH: 0.0005
+  TROPICAL_FISH: 0.0005
+  SQUID: 0.001
+  GLOW_SQUID: 0.001
+
+  SHULKER: 0.0005
+  MAGMA_CUBE: 0.003
+  GHAST: 0.002
+
+  WOLF: 0.0005
+  FOX: 0.0005
+  BEE: 0.0005
+  GOAT: 0.0005
+  POLAR_BEAR: 0.03
+
+  WITHER: 0.01
+  ENDER_DRAGON: 0.01

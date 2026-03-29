@@ -1,0 +1,4 @@
+name: EggDrop
+version: 1.1
+main: dev.nathsys.eggdrop.EggDrop
+api-version: 1.21
