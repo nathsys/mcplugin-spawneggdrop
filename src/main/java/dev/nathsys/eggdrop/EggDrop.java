@@ -52,6 +52,7 @@ public class EggDrop extends JavaPlugin implements Listener {
         }
     }
 
+    // Perform rng check and drop if success.
     @EventHandler
     public void onMobDeath(EntityDeathEvent event) {
 
